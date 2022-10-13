@@ -1,0 +1,242 @@
+@media (width: 375px) {
+.o{
+  border-radius: 15px;
+    position: absolute;
+    top: 34%;
+    left: 50%;
+    transform: translate(-50% , -50%);
+    width: 280px;
+    height: 280px;
+}
+.q{
+  font-family: 'Outfit';
+font-size: 22px;
+position: absolute;
+top: 56%;
+left: 13%;
+color: hsl(0, 0%, 100%);
+}
+body{
+  background-color: hsl(217, 54%, 11%);
+}
+.w{
+  color: #7388a7;
+    position: absolute;
+    left: 13%;
+    top: 62%;
+    font-size: 16px;
+    width: 291px;
+    line-height: 25px;
+    font-family: 'Outfit';
+}
+.e{
+  position: absolute;
+    top: 74.5%;
+    left: 13%;
+}
+.r{
+  position: absolute;
+    top: 72%;
+    left: 18%;
+    font-size: 15.5px;
+    color: #00FFF8;
+    font-family: 'Outfit';
+}
+.t{
+  position: absolute;
+    top: 74.6%;
+    left: 62.6%;
+}
+.y{
+  color: #8BACD9;
+    font-family: 'Outfit';
+    position: absolute;
+    top: 72%;
+    left: 69%;
+    font-size: 15.5px;
+    font-weight: 400;
+}
+.u{
+  position: absolute;
+top: 82%;
+left: 12%;
+width: 35px;
+border: 1px solid white;
+border-radius: 50%;
+}
+.p{
+  position: absolute;
+top: 79%;
+width: 277px;
+left: 13%;
+height: 10px;
+border-left-color: #ffffff00;
+border-right-color: #ffffff00;
+border-bottom: #ffffff00;
+border-top-color: #7587a4;
+}
+.i{
+  color: #697f97;
+    position: absolute;
+    font-family: 'Outfit';
+    top: 83%;
+    font-weight: 600;
+    left: 26%;
+}
+.a{
+  color: white;
+    position: absolute;
+    font-family: 'Outfit';
+    top: 83%;
+    font-weight: 300;
+    left: 50%;
+}
+.x::after{
+  content: "";
+  background-color: hsl(216, 50%, 16%);
+  width: 327px;
+  height: 540px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  border-radius: 10px;
+  z-index: -1;
+  transform: translate(-50%, -50%);
+}
+}
+@media (min-width: 376px) {
+  .m{
+    position: absolute;
+      top: 320px;
+      left: 937px;
+      z-index: 3;
+  }
+.o:hover{
+opacity: 20%;
+cursor: pointer;
+}
+  .o{
+    border-radius: 10px;
+    position: absolute;
+    top: 193.5px;
+    left: 808px;
+    width: 304px;
+    height: 303px;
+    z-index: 6;
+    transition: 0.5s;
+  }
+  .f{
+    position: absolute;
+    border-radius: 13px;
+    top: 193.5px;
+    left: 808px;
+    width: 304px;
+    height: 303px;
+    background: hsl(178, 100%, 50%);
+    z-index: 2;
+  }
+  .q:hover{
+    color: hsl(178, 100%, 50%);
+    cursor: pointer;
+  }
+  .q{
+    font-family: 'Outfit';
+font-size: 22px;
+position: absolute;
+top: 506px;
+left: 808px;
+color: hsl(0, 0%, 100%);
+  }
+  body{
+    background-color: hsl(217, 54%, 11%);
+  }
+  .w{
+    color: #7388a7;
+    position: absolute;
+    left: 808px;
+    top: 550px;
+    width: 291px;
+    line-height: 25px;
+    font-size: 18px;
+    font-family: 'Outfit';
+  }
+  .e{
+    position: absolute;
+top: 640px;
+left: 810px;
+  }
+  .r{
+    position: absolute;
+top: 623px;
+left: 827px;
+font-weight: 600;
+font-size: 15.5px;
+color: #00FFF8;
+font-family: 'Outfit';
+  }
+  .t{
+    position: absolute;
+    top: 642px;
+    left: 1015px;
+
+  }
+  .y{
+    color: #8BACD9;
+font-family: 'Outfit';
+position: absolute;
+top: 623px;
+left: 1038px;
+font-size: 15.5px;
+font-weight: 400;
+  }
+  .u{
+    position: absolute;
+top: 700px;
+left: 808px;
+width: 35px;
+border: 1px solid white;
+border-radius: 50%;
+  }
+  .p{
+    position: absolute;
+top: 677px;
+width: 303px;
+left: 808px;
+height: 10px;
+border-left-color: #ffffff00;
+border-right-color: #ffffff00;
+border-bottom: #ffffff00;
+border-top-color: #7587a4;
+  }
+  .i{
+    color: #697f97;
+    position: absolute;
+    font-family: 'Outfit';
+    top: 709px;
+    font-weight: 600;
+    left: 859px;
+  }
+  .a:hover{
+    color: hsl(178, 100%, 50%);
+    cursor: pointer;
+  }
+  .a{
+    color: white;
+position: absolute;
+font-family: 'Outfit';
+top: 709px;
+font-weight: 300;
+left: 945px;
+  }
+  .x::after{
+    content: "";
+  background-color: hsl(216, 50%, 16%);
+  width: 350px;
+  height: 598px;
+  position: absolute;
+  top: 170px;
+  left: 785px;
+  border-radius: 10px;
+  z-index: -1;
+}
+}
